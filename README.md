@@ -4,7 +4,7 @@ letters with a homemade custom crypt function.
 Writing in the field in the browser the program will conver your chars 
 in the crypted ones.
 ----------------       HOW IT WORKS  ------------
-1) Open the console of the browser (if seehöfer si fa i cazzi suoi)
+1) Open the console of the browser
 2) and paste the code as it is.
 3) Press enter.
 4) If a warning message comes from the browser to prevent javascript 
